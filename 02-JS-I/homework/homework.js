@@ -3,17 +3,28 @@
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = hola ;
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 1 3 8 15 30;88888
-const nuevaResta = 10 - null ===
+const nuevoNum = '1,3,15,30' ;
+const nuevaResta = 10 - 4 === 6
+
+// Crea una variable booleana: 
+Const, nuevoBool = null;
+
+// Resuelve el siguiente problema matemático:
+const nuevaResta = 10 - 5 === 5;
+
+
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * null === 40 ;
+
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+nuevoModulo = 21 % 5 === null;
+
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
+
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
