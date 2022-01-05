@@ -12,11 +12,11 @@ const nuevoBool = escodigobinario = true
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
 
-// Resuelve el siguiente problema matemático:
+// Resuelve el siguiente problema matemático:git commit 'modifi 5 result'
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === null;
+const nuevoModulo = 21 % 5 === 1;
 
 
 // En los próximos 22 problemas, deberás completar la función.
